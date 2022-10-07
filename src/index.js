@@ -7,9 +7,10 @@ encodeButton.addEventListener ("click", function() {
     const inputEncode = document.getElementById("textForEncode")
 
 
-    //const encodeText = inputEncode.value;
-    const encodedResult = cipher.encode(encodeText);
+    const encodeText = inputEncode.value;
     console.log(encodeText);
+    const encodedResult = cipher.encode(inputEncode);
+    console.log(inputEncode);
     //document.getElementById("result").innerHTML = encodedResult;
     alert(cipher.encode (encodedResult));
     //cipher.encode(encodeText);
