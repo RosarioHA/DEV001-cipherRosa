@@ -1,16 +1,21 @@
 h1 {color: rgb(4, 123, 4);
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 }
 h2 {color: rgb(2, 67, 2);
     font-family: Arial, Helvetica, sans-serif;
 }
 body {background-color:rgb(240, 234, 209);
-    align-content: center;
 }
-p {width: 35%;
+p {width: 65%;
     height: 65px;
     font-family: 'Times New Roman', Times, serif;
     }
 button {background-color: rgb(205, 174, 49);
     text-align: center;
 }    
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+  }
