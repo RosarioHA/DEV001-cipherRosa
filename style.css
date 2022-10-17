@@ -1,0 +1,27 @@
+h2 {color: rgb(4, 123, 4);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic
+    
+}
+body {background-color:rgb(240, 228, 179);
+}
+p {width: 70%;
+    height: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+button {background-color: rgb(205, 174, 49);
+    text-align: center;
+}    
+
+.encodeSection {
+   border-radius: 15px; 
+   width: 400px;
+   height: 500px;
+   margin: auto;
+   background-color: rgb(240, 234, 209); 
+   padding: 3% 2%;
+   padding-left: 7%;
+   padding-bottom: 100px;
+   border: 7px dashed rgb(0, 40, 0);
+   margin-top: 20px;
+}
