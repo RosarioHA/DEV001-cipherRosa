@@ -18,17 +18,12 @@ Su diseño busca ser limpio y depurado, sin elementos distractores o meramente d
 
 ## Evolución del diseño:
 
-Los primeros prototipos hechos en papel ayudaron a ordenar la estructura de la web y disponer de todos los elementos necesarios para la funcionalidad requerida.
+Los primeros prototipos hechos en papel ayudaron a ordenar la estructura de la web y disponer de todos los elementos necesarios para la funcionalidad requerida. En primera instancia pensé en dos secciones: una de Encode y otra de Decode, cada una con una zona para ingresar el texto, otra para elegir un numero de offset y un botón de codificar o decodificar respectivamente.
 
-[foto de los prototipos]
-
-Se escogió una paleta de colores sobria y que genere alto contraste entre el fondo y los textos para facilitar la lectura.
-
-[muestra de colores]
+Se escogió una paleta de colores sobria y que genere alto contraste entre el fondo y los textos para facilitar la lectura. Opté por colores pastel para el fondo y dos tonos de verde oscuro para toques de color. Finalmente, decidí dejar los textos en negro para mayor contraste.
 
 Para la distribución final de la web se hicieron algunas mejoras, eliminando cajas de texto innecesarias y dejando un sólo sector de input de texto, con el selector de número de Offset y  dos botones (“codificar” y “decodificar”) que darían las dos funciones de la plataforma. De éste modo logramos un diseño más compacto, limpio y con una usabilidad simplificada e intuitiva.
 
-[muestra de la pagina final]
 
 ## Visita el Cifrador César aquí
 
