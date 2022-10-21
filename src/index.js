@@ -15,7 +15,7 @@ encodeButton.addEventListener ("click",function(){ //al hacer click al botón
     const textForEncodeValue = textForEncode.value; //traer el input de texto reutilizando la funcion textForEncode
     const encodeOffsetValue = encodeOffset.value; // traer el numero de offset de desplazamiento, se diferencia de getElementById por ser los valores del input
     //console.log("esta es la textForEncodeValue " + textForEncodeValue)
-    document.getElementById("encodeResult").innerHTML = cipher.encode(encodeOffsetValue, textForEncodeValue); // envía todo a cihper.js?
+    document.getElementById("encodeResult").innerHTML = cipher.encode(encodeOffsetValue, textForEncodeValue); // envía encodeResult a .html
 });
 
 decodeButton.addEventListener ("click",function(){ //al hacer click al botón
